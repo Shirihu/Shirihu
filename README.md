@@ -1,4 +1,4 @@
-Biophysicist and novice programmer.  Mostly experimental but with a branch into computational molecular dynamics.
+YAAD (yet-another-agender-developer)
 
 Code writing in the brutalist era.
 
